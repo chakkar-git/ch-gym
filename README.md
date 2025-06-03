@@ -17,6 +17,3 @@
 
 **Preview**
 https://youtu.be/Yw87lehvNxY
-
-**For Support**
-https://discord.gg/chscripts
